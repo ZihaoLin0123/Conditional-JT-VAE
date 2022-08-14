@@ -1,0 +1,23 @@
+GPU Memory Track | 06-Jun-22-17:06:51 | Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At JTVAE/fast_molvae/jtnnvae_train.py line 76: <module> Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
++ | 6 * Size:(450, 900)           | Memory: 9.2697 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 2 * Size:(450, 478)           | Memory: 1.6410 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(1, 450)             | Memory: 0.0017 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 3 * Size:(859, 450)           | Memory: 4.4237 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(450, 50)            | Memory: 0.0858 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(450, 489)           | Memory: 0.8394 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 12 * Size:(450,)               | Memory: 0.0205 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 4 * Size:(28,)                | Memory: 0.0004 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(450, 40)            | Memory: 0.0686 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(450, 28)            | Memory: 0.0480 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 4 * Size:(28, 450)            | Memory: 0.1922 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(859,)               | Memory: 0.0032 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 6 * Size:(450, 450)           | Memory: 4.6348 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(1,)                 | Memory: 3.8146 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
++ | 1 * Size:(450, 485)           | Memory: 0.8325 M | <class 'torch.nn.parameter.Parameter'> | torch.float32
+
+At JTVAE/fast_molvae/jtnnvae_train.py line 80: <module> Total Tensor Used Memory:22.1   Mb Total Allocated Memory:22.1   Mb
+

@@ -1,0 +1,17 @@
+GPU Memory Track | 06-Jun-22-11:16:19 | Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At track_gpu_test.py line 12: <module>                Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At track_gpu_test.py line 14: <module>                Total Tensor Used Memory:76.4   Mb Total Allocated Memory:76.4   Mb
+
+
+At track_gpu_test.py line 20: <module>                Total Tensor Used Memory:466.4  Mb Total Allocated Memory:466.4  Mb
+
+
+At track_gpu_test.py line 25: <module>                Total Tensor Used Memory:1066.4 Mb Total Allocated Memory:1066.4 Mb
+
+
+At track_gpu_test.py line 31: <module>                Total Tensor Used Memory:586.4  Mb Total Allocated Memory:586.4  Mb
+
