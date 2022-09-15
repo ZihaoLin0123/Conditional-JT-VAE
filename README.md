@@ -1,6 +1,6 @@
 # CONDITIONAL JTVAE
 
-Official repository for the paper (research): Conditional-JT-VAE for designing molecules with multiple specific properties.  
+Official repository for the paper (research): •	Automatic Chemical Design of Small Molecules Targeting SARS-CoV-2 Frameshifting Pseudoknot (PK) with generative Chemistry.
 This repo is forked from https://github.com/pascalnotin/uncertainty_guided_optimization.
 
 ## Junction-Tree VAE (JTVAE)
